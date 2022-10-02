@@ -59,6 +59,7 @@ header > p {
 .section {
   box-shadow: 5px 10px 10px lightgray, -5px 0px 10px lightgray;
   padding: 0px 20px;
+  height: fit-content;
 }
 h3 {
   font-size: 18px;
